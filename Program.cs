@@ -44,7 +44,7 @@ namespace POO_OBJETOSCOMOARGUMENTOS_EX1
                     string resposta3 = Console.ReadLine();
 
                     produtos.RemoveAll(x => x.Nome == resposta3);
-                    //carrinho.RemoverProduto();
+                    // carrinho.RemoverProduto(produtos.Nome);
                 break;
                 case 3:
                     System.Console.WriteLine("Quantos produtos deseja alterar?");
@@ -68,12 +68,14 @@ namespace POO_OBJETOSCOMOARGUMENTOS_EX1
                    } while(i2 < resposta4);
                 break;
                 case 4:
-                    foreach (Produto p in produtos)
-                    {
-                        Console.ForegroundColor = ConsoleColor.Yellow;
-                        Console.WriteLine($"{p.Nome} - R$ {p.Valor}");
-                        Console.ResetColor();
-                    }
+                    // foreach (Produto p in produtos)
+                    // {
+                    //     Console.ForegroundColor = ConsoleColor.Yellow;
+                    //     Console.WriteLine($"{p.Nome} - R$ {p.Valor}");
+                    //     Console.ResetColor();
+                    // }
+
+                    carrinho.ListarCarrinho();
                 break;
                 case 5:
                    

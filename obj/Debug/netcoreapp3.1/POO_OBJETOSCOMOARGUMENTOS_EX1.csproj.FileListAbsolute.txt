@@ -11,3 +11,16 @@ C:\Users\User\OneDrive\Área de Trabalho\POO_OBJETOSCOMOARGUMENTOS_EX1\bin\Debug
 C:\Users\User\OneDrive\Área de Trabalho\POO_OBJETOSCOMOARGUMENTOS_EX1\obj\Debug\netcoreapp3.1\POO_OBJETOSCOMOARGUMENTOS_EX1.dll
 C:\Users\User\OneDrive\Área de Trabalho\POO_OBJETOSCOMOARGUMENTOS_EX1\obj\Debug\netcoreapp3.1\POO_OBJETOSCOMOARGUMENTOS_EX1.pdb
 C:\Users\User\OneDrive\Área de Trabalho\POO_OBJETOSCOMOARGUMENTOS_EX1\obj\Debug\netcoreapp3.1\POO_OBJETOSCOMOARGUMENTOS_EX1.genruntimeconfig.cache
+C:\Users\dev\Desktop\POO_OBJETOSCOMOARGUMENTOS_EX1\bin\Debug\netcoreapp3.1\POO_OBJETOSCOMOARGUMENTOS_EX1.exe
+C:\Users\dev\Desktop\POO_OBJETOSCOMOARGUMENTOS_EX1\bin\Debug\netcoreapp3.1\POO_OBJETOSCOMOARGUMENTOS_EX1.deps.json
+C:\Users\dev\Desktop\POO_OBJETOSCOMOARGUMENTOS_EX1\bin\Debug\netcoreapp3.1\POO_OBJETOSCOMOARGUMENTOS_EX1.runtimeconfig.json
+C:\Users\dev\Desktop\POO_OBJETOSCOMOARGUMENTOS_EX1\bin\Debug\netcoreapp3.1\POO_OBJETOSCOMOARGUMENTOS_EX1.runtimeconfig.dev.json
+C:\Users\dev\Desktop\POO_OBJETOSCOMOARGUMENTOS_EX1\bin\Debug\netcoreapp3.1\POO_OBJETOSCOMOARGUMENTOS_EX1.dll
+C:\Users\dev\Desktop\POO_OBJETOSCOMOARGUMENTOS_EX1\bin\Debug\netcoreapp3.1\POO_OBJETOSCOMOARGUMENTOS_EX1.pdb
+C:\Users\dev\Desktop\POO_OBJETOSCOMOARGUMENTOS_EX1\obj\Debug\netcoreapp3.1\POO_OBJETOSCOMOARGUMENTOS_EX1.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\POO_OBJETOSCOMOARGUMENTOS_EX1\obj\Debug\netcoreapp3.1\POO_OBJETOSCOMOARGUMENTOS_EX1.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\POO_OBJETOSCOMOARGUMENTOS_EX1\obj\Debug\netcoreapp3.1\POO_OBJETOSCOMOARGUMENTOS_EX1.AssemblyInfo.cs
+C:\Users\dev\Desktop\POO_OBJETOSCOMOARGUMENTOS_EX1\obj\Debug\netcoreapp3.1\POO_OBJETOSCOMOARGUMENTOS_EX1.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\POO_OBJETOSCOMOARGUMENTOS_EX1\obj\Debug\netcoreapp3.1\POO_OBJETOSCOMOARGUMENTOS_EX1.dll
+C:\Users\dev\Desktop\POO_OBJETOSCOMOARGUMENTOS_EX1\obj\Debug\netcoreapp3.1\POO_OBJETOSCOMOARGUMENTOS_EX1.pdb
+C:\Users\dev\Desktop\POO_OBJETOSCOMOARGUMENTOS_EX1\obj\Debug\netcoreapp3.1\POO_OBJETOSCOMOARGUMENTOS_EX1.genruntimeconfig.cache

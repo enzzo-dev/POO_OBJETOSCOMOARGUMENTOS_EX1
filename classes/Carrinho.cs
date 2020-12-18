@@ -27,7 +27,7 @@ namespace POO_OBJETOSCOMOARGUMENTOS_EX1.classes
             if(carrinho != null){
                 foreach(Produto p in carrinho){
                     Console.ForegroundColor = ConsoleColor.Green;
-                    Console.WriteLine($"R$ {p.Valor.ToString("n2")} - {p.Nome}");
+                    Console.WriteLine($"R$ {p.Valor} - {p.Nome}");
                     Console.ResetColor();
                 }
                 MostrarTotal();
@@ -52,9 +52,9 @@ namespace POO_OBJETOSCOMOARGUMENTOS_EX1.classes
         }
 
 
-        public void AlterarItem(string _nome, Produto _novoProduto){
-            carrinho.Find(x => x.Nome == _nome).Codigo = _novoProduto.Codigo;
-            carrinho.Find(x => x.Nome == _nome).Valor = _novoProduto.Valor;
+        public void AlterarItem(int codigo, Produto _novoProduto){
+            carrinho.Find(x => x.Codigo == codigo).Nome = _novoProduto.Nome;
+            carrinho.Find(x => x.Codigo == codigo).Valor = _novoProduto.Valor;
         }
     }
 }
