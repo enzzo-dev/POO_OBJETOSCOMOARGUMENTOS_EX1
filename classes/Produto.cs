@@ -16,10 +16,8 @@ namespace POO_OBJETOSCOMOARGUMENTOS_EX1.classes
             //Método construtor
         }
 
-        public Produto(int _codigo , string _nome , float _valor){
-            this.Codigo = _codigo;
-            this.Nome = _nome;
-            this.Valor = _valor;
+        public Produto(Produto produtos){
+            
         }
 
     }
